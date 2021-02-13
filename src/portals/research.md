@@ -62,6 +62,11 @@ you can read about how the researchers at MIT are using the Crazyflie 2.0 to stu
 
 ## Publications involving Crazyflie 2.X
 ---
+### 2021
+
+* **Deep Reinforcement Learning based Aggressive Flight Trajectory Tracker**,
+Omar Shadeed, Mehmet Hasanzade, Emre Koyuncu, AIAA Science and Technology Forum and Exposition, 2021.
+[PDF](https://www.researchgate.net/publication/348240012_Deep_Reinforcement_Learning_based_Aggressive_Flight_Trajectory_Tracker)
 
 ### 2020
 
@@ -148,6 +153,10 @@ Pierre Laclau, Vladislav Tempez, Franck Ruffier, Enrico Natalizio, Jean-Baptiste
 [Code, ](https://github.com/gsilano/CrazyS)
 [Video](https://youtu.be/qsrYCUSQ-S4)
 
+* **Trajectory-based Agile Multi UAV Coordination through Time Synchronisation**,
+Omar Shadeed, Halise Turkmen, Emre Koyuncu, AIAA Science and Technology Forum and Exposition, 2020.
+[PDF](https://www.researchgate.net/publication/338400671_Trajectory-based_Agile_Multi_UAV_Coordination_through_Time_Synchronisation)
+
 ### 2019
 
 * **Minimal navigation solution for a swarm of tiny flying robots to explore an unknown environment**,
@@ -158,10 +167,6 @@ K. N. McGuire, C. De Wagter, K. Tuyls, H. J. Kappen and G. C. H. E. de Croon, TU
 * **A 64-mW DNN-Based Visual Navigation Engine for Autonomous Nano-Drones**,
 Daniele Palossi, Antonio Loquercio, Francesco Conti, Eric Flamand, Davide Scaramuzza, Luca Benini, ETH Zürich, 2019.
 [PDF](https://ieeexplore.ieee.org/abstract/document/8715489)
-
-* **Trajectory-based Agile Multi UAV Coordination through Time Synchronisation**,
-Omar Shadeed, Halise Turkmen, Emre Koyuncu, AIAA Science and Technology Forum and Exposition, 2020.
-[PDF](https://www.researchgate.net/publication/338400671_Trajectory-based_Agile_Multi_UAV_Coordination_through_Time_Synchronisation)
 
 * **Learning to Seek: Autonomous Source Seeking with Deep Reinforcement Learning Onboard a Nano Drone Microcontroller**, Bardienus P. Duisterhof, Srivatsan Krishnan, Jonathan J. Cruz, Colby R. Banbury William Fu, Aleksandra Faust, Guido C. H. E. de Croon, Vijay Janapa Reddi, Harvard University, 2019.
 [PDF, ](https://arxiv.org/pdf/1909.11236)
